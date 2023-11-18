@@ -10,6 +10,7 @@
     "node": "20"
   },
   "remoteEnv": {
+    "PATH": "/home/vscode/.local/share/aquaproj-aqua/bin:${containerEnv:PATH}",
     "SHELL": "/bin/zsh"
   },
   "customizations": {
@@ -24,7 +25,11 @@
           }
         },
         "terminal.integrated.defaultProfile.linux": "zsh"
-      }
+      },
+      "extensions": [
+        "golang.go",
+        "ms-azuretools.vscode-docker"
+      ]
     }
   }
 }
