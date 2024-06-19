@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@azure/identity": "^4.3.0",
+    "@microsoft/kiota-authentication-azure": "^1.0.0-preview.51",
+    "@microsoft/msgraph-sdk": "^1.0.0-preview.24",
+    "@microsoft/msgraph-sdk-users": "^1.0.0-preview.24",
+    "tsx": "^4.15.6",
+    "typescript": "^5.4.5"
+  }
+}
