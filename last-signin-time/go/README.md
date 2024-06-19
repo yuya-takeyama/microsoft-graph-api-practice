@@ -20,8 +20,8 @@ The domain parts of the email addresses have been partially masked.
 ```
 $ az login --allow-no-subscription
 $ go run main.go
-{"upn":"AdeleV@.onmicrosoft.com","accountEnabled":true,"lastSignInTime":"2023-11-03T18:34:15Z","daysSinceLastSignIn":16.2,"userType":"Member"}
-{"upn":"AlexW@.onmicrosoft.com","accountEnabled":true,"lastSignInTime":"2023-11-03T18:34:21Z","daysSinceLastSignIn":16.2,"userType":"Member"}
+{"upn":"AdeleV@***.onmicrosoft.com","accountEnabled":true,"lastSignInTime":"2023-11-03T18:34:15Z","daysSinceLastSignIn":16.2,"userType":"Member"}
+{"upn":"AlexW@***.onmicrosoft.com","accountEnabled":true,"lastSignInTime":"2023-11-03T18:34:21Z","daysSinceLastSignIn":16.2,"userType":"Member"}
 {"upn":"yuya@***.onmicrosoft.com","accountEnabled":true,"lastSignInTime":"2023-11-19T09:09:30Z","daysSinceLastSignIn":0.6,"userType":"Member"}
 ...
 ```
