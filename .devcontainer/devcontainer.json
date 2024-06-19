@@ -7,10 +7,13 @@
   "features": {
     "git": "latest",
     "aws-cli": "latest",
-    "node": "20"
+    "node": "20",
+    "ghcr.io/aquaproj/devcontainer-features/aqua-installer:0.1.1": {
+      "aqua_version": "v2.29.0"
+    }
   },
   "remoteEnv": {
-    "PATH": "/home/vscode/.local/share/aquaproj-aqua/bin:${containerEnv:PATH}",
+    "PATH": "/root/.local/share/aquaproj-aqua/bin:${containerEnv:PATH}",
     "SHELL": "/bin/zsh"
   },
   "customizations": {
