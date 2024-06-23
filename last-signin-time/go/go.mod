@@ -3,7 +3,7 @@ module github.com/yuya-takeyama/microsoft-graph-api-practice/signin-activity
 go 1.21.4
 
 require (
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.6.0
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.7.0
 	github.com/microsoftgraph/msgraph-sdk-go v1.45.0
 	github.com/microsoftgraph/msgraph-sdk-go-core v1.1.0
 )
