@@ -37,6 +37,8 @@ github.com/microsoft/kiota-abstractions-go v1.6.0 h1:qbGBNMU0/o5myKbikCBXJFohVCF
 github.com/microsoft/kiota-abstractions-go v1.6.0/go.mod h1:7YH20ZbRWXGfHSSvdHkdztzgCB9mRdtFx13+hrYIEpo=
 github.com/microsoft/kiota-abstractions-go v1.6.1 h1:NXK50S3BwJn9Wj6bO0YFuAig7y2WVgdQ/ie1ktMl2J4=
 github.com/microsoft/kiota-abstractions-go v1.6.1/go.mod h1:FI1I2OHg0E7bK5t8DPnw+9C/CHVyLP6XeqDBT+95pTE=
+github.com/microsoft/kiota-abstractions-go v1.7.0 h1:/0OKSSEe94Z1qgpcGE7ZFI9P+4iAnsDQo9v9UOk+R8E=
+github.com/microsoft/kiota-abstractions-go v1.7.0/go.mod h1:FI1I2OHg0E7bK5t8DPnw+9C/CHVyLP6XeqDBT+95pTE=
 github.com/microsoft/kiota-authentication-azure-go v1.0.2 h1:tClGeyFZJ+4Bakf8u0euPM4wqy4ethycdOgx3jyH3pI=
 github.com/microsoft/kiota-authentication-azure-go v1.0.2/go.mod h1:aTcti0bUJEcq7kBfQG4Sr4ElvRNuaalXcFEu4iEyQ6M=
 github.com/microsoft/kiota-authentication-azure-go v1.1.0 h1:HudH57Enel9zFQ4TEaJw6lMiyZ5RbBdrRHwdU0NP2RY=
@@ -59,6 +61,8 @@ github.com/microsoftgraph/msgraph-sdk-go v1.45.0 h1:PRE3nsGDlASfoM1h6QNCBXmU34LT
 github.com/microsoftgraph/msgraph-sdk-go v1.45.0/go.mod h1:MSMgjuMPKAsIz8XfH5l+e781fkWjUxc1XXhb2eoSdc0=
 github.com/microsoftgraph/msgraph-sdk-go v1.47.0 h1:qXfmDij9md6mPsSAJjiDNmS4hxqKo0R489GiVMZVmmY=
 github.com/microsoftgraph/msgraph-sdk-go v1.47.0/go.mod h1:Gnws5D7d/930uS9J4qlCm4BAR/zenqECMk9tgMDXeZQ=
+github.com/microsoftgraph/msgraph-sdk-go v1.50.0 h1:0sOk4L4zVdVwX3MuwItISD83TRde/dQxGahzNz/MYTY=
+github.com/microsoftgraph/msgraph-sdk-go v1.50.0/go.mod h1:ghZjDbiV52URFLjZGFZckbLqMW1IgWvQKW4AqLgOm5E=
 github.com/microsoftgraph/msgraph-sdk-go-core v1.1.0 h1:NB7c/n4Knj+TLaLfjsahhSqoUqoN/CtyNB0XIe/nJnM=
 github.com/microsoftgraph/msgraph-sdk-go-core v1.1.0/go.mod h1:M3w/5IFJ1u/DpwOyjsjNSVEA43y1rLOeX58suyfBhGk=
 github.com/microsoftgraph/msgraph-sdk-go-core v1.2.1 h1:P1wpmn3xxfPMFJHg+PJPcusErfRkl63h6OdAnpDbkS8=
